@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">G7S21_DDIM_242_P1PRO_AW</string>
+    <string name="lblestados">Estados de la republica</string>
+    python3 -m http.server 8000
+    <string-array name="lestados">
+        <item>Estados de Mexico</item>
+        <item>Jalisco</item>
+        <item>Michoacan</item>
+        <item>Veracruz</item>
+        <item>Nuevo Leon</item>
+        <item>Puebla</item>
+
+    </string-array>
+</resources>
